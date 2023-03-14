@@ -1,10 +1,3 @@
-# Group members
-
-V.Anantharam - 18/ENG/005
-J.Thusyanthan - 18/ENG/109
-J.Thevanankumaran - 16/ENG/100
-
-
 Initially have to run "...\qbr\src\qbr.py
 
 This opens a webcam interface with the following things:
